@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 1022101597
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: levelcontent
+      Dependencies: {}

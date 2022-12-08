@@ -1,0 +1,84 @@
+ManifestFileVersion: 0
+CRC: 1845286946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 92f1f59fc7f833c9a453dc2c59f7d50a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22ed9318dd976768703b18b85a6daa9a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1752405707, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: -394620017, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 330040450, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: -1109499624, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 983631611, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 1854839111, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: -1705344508, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 1805841171, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 1414068437, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: 89717146, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 114
+  Script: {fileID: -50275816, guid: 98e11ccaaeac65049ad2cb5095851792, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 145
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scenes/LEVEL_SCENE.unity
+Dependencies: []
